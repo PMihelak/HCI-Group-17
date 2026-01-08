@@ -1,0 +1,53 @@
+Presentation feedback notes
+- send survey to prof?
+- mute button
+- personalization with membership card (no receipst etc)
+- +/- buttons for bags (no one is inputting 100)
+- language/mute options visible on all screens
+- bag selection screen too cluttered (back button inside pop-up)
+- bag selection should start with a yes/no prompt
+- back button + discard session too redundant?
+- remove item list from payment screen (maybe only display total)
+- annotate photos of existing systems
+- design interactive UI
+
+After Usability testing Notes
+
+some feedback we got for our prototype:
+- remove bag prompt, just show selection with default 0 bags
+- prompt to remove the item after removing it
+- start screen should have a bigger font option (a11y)
+- speaker icon should have a label for clarity
+- add membership card support
+
+- buyer shouldn’t be allowed to remove items
+- bag selection confirmation button at the bottom
+- add coupon support
+
+and from the professor:
+- bottom row of buttons (discard, call assistant, continue) need icons next to text 
+  > Discard icon: X
+  > Continue icon: checkmark
+  > Call assistant icon: phone icon maybe?
+- scan item action bound to a hotkey instead of a big green button cluttering the prototype UI
+  > display which item was scanned in that position to fill the space and let the buyer double check the price
+- payment screen is great
+- overall prototype UI is good
+- bag icon doesn’t look like a bag
+- bag prompt is good
+  > maybe default to number selection with "no bag" button (bag icon crossed out)
+- add payment flow screen to the prototype
+
+
+- on the payment screen it could show discounts and ddv for the price
+- option to make the volume lower or higher (not just turning it on or off)
+- someone asked why we need a button on the start screen to start scanning (so I think we should definitely allow the users to start scanning without even clicking the button first)
+- accessibility features for people with dissabilities (someone said that apparently they are very happy if you include stuff like that)
+
+
+After Mid Presentation
+do not group functionally different buttons in the bottom row (maybe move the call assistant button next to language flags)
+bag selection screen should move the continue button to be consistent with other views
+discard session button should be move elsewhere
+improve design
+get user feedback for the prototype
