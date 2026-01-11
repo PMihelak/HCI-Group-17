@@ -1,6 +1,5 @@
 Presentation feedback notes
-- send survey to prof?
-- mute button
+- no mute button
 - personalization with membership card (no receipst etc)
 - +/- buttons for bags (no one is inputting 100)
 - language/mute options visible on all screens
